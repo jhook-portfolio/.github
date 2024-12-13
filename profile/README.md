@@ -17,13 +17,10 @@ Please see my key areas of competency below, linked to relevant repositories tha
 1. Languages:
    - Python
    - C++
-   - C#
-   - Java
 
 2. Cloud Providers:
    - AWS
    - Microsoft Azure
-   - Multicloud
      
 3. Infrastructure As Code & Networking;
    - Pulumi
@@ -32,14 +29,11 @@ Please see my key areas of competency below, linked to relevant repositories tha
 4. Backend Engineering:
    - API Developmnet:
      - Python
-     - Java
      - Serverless
    - Database Design & Data Modelling
      
 5. Deployment & CI/CD
    - GitHub Actions
-   - Kubernetes
-   - Ansible
    - Docker
      
 6. Solutions Architecture / End to end product development
@@ -47,5 +41,3 @@ Please see my key areas of competency below, linked to relevant repositories tha
 # Highlighted Project:
 
 # Personal Interests:
-
-# Contact Me:
