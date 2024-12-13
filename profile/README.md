@@ -39,6 +39,8 @@ Please see my key areas of competency below, linked to relevant repositories tha
 6. Solutions Architecture / End to end product development
 
 # Highlighted Project:
+[Orbital Mechanics: Two Body Problem](https://github.com/jhook-portfolio/OrbitalMechanics)
+This project combines my interest in astro-physics and my introduction to using Cpp for high demand backend services. The project is still incomplete, I am planning on expandinf the mono-repo to cotnain the cloud infrastructure deployments, full CI/CD pipelines, and a front end that allows the user to adjust the number of bodies, their initial coordiantes and their masses. 
 
 # Personal Interests:
 Computational Chemsitry and Physics (Quantum)
