@@ -41,3 +41,4 @@ Please see my key areas of competency below, linked to relevant repositories tha
 # Highlighted Project:
 
 # Personal Interests:
+Computational Chemsitry and Physics (Quantum)
