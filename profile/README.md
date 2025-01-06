@@ -28,13 +28,13 @@ Please see my key areas of competency below, linked to relevant repositories tha
      
 4. Backend Engineering:
    - API Developmnet:
-     - Python
-     - Serverless
+     - [Python /Django](https://github.com/jhook-portfolio/ProfilesRestApi)
    - Database Design & Data Modelling
      
 5. Deployment & CI/CD
    - GitHub Actions
    - Docker
+   - [Vagrant](https://github.com/jhook-portfolio/ProfilesRestApi)
      
 6. Solutions Architecture / End to end product development
 
